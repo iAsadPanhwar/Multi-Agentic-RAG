@@ -155,6 +155,11 @@ app = workflow.compile()
 
 ---
 
+## Graph
+
+
+![System Architecture](assets/system-architecture.png)
+
 ## **Results**
 
 1. **Routing Results** - Questions on specific topics (e.g., "What is an agent?") were routed to the vector store, fetching relevant, in-depth information from documents.
