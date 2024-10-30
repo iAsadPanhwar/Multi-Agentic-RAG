@@ -158,7 +158,7 @@ app = workflow.compile()
 ## Graph
 
 
-![System Architecture](assets/system-architecture.png)
+![Graph](Graph/image.png)
 
 ## **Results**
 
